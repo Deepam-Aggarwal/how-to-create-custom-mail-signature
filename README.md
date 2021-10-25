@@ -27,8 +27,11 @@
 
 ### Screenshot
 
-![](./preview1.jpg)
-![](./preview2.jpg)
+![](./1.png)
+![](./2.png)
+![](./3.png)
+![](./4.png)
+![](./5.png)
 
 ## My process
 
